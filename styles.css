@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(0, 0%, 8%);
+  font-family: Outfit, sans-serif;
+  font-size: 14px;
+  color: hsl(0, 0%, 100%);
+  font-family: "Inter", sans-serif;
+}
+
+article {
+  background-color: hsl(0, 0%, 12%);
+  padding: 32px;
+  width: 365px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 24px;
+  padding-bottom: 12px;
+  font-weight: normal;
+}
+.details {
+  text-align: center;
+}
+
+.content-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.avatar-headshot {
+  border-radius: 80%;
+  width: 75px;
+  margin-bottom: 24px;
+}
+
+.location {
+  color: hsl(75, 94%, 57%);
+  padding-bottom: 12px;
+  font-weight: bold;
+}
+
+.information {
+  font-style: italic;
+  text-align: center;
+  padding-top: 16px;
+  padding-bottom: 24px;
+}
+
+.social-links {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.social-links a {
+  color: hsl(0, 0%, 100%);
+  text-decoration: none;
+  display: block;
+  padding: 16px 0;
+  background-color: hsl(0, 0%, 20%);
+  border-radius: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.social-links a:hover {
+  background-color: hsl(75, 94%, 57%);
+  color: hsl(0, 0%, 12%);
+}
