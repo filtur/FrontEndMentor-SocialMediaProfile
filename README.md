@@ -25,8 +25,8 @@ Desktop:
 
 ### Links
 
-- Solution URL: [Github Repository](https://github.com/filtur/FrontEndMentor-SocialLinksProfile)
-- Live Site URL: [Github Page](https://filtur.github.io/FrontEndMentor-SocialLinksProfile/)
+- Solution URL: [Github Repository](https://github.com/filtur/FrontEndMentor-SocialMediaProfile)
+- Live Site URL: [Github Page](https://filtur.github.io/FrontEndMentor-SocialMediaProfile/)
 
 ## My process
 
